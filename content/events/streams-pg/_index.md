@@ -4,7 +4,7 @@ description: "Join the new regular series of monthly Online MeetUp for each comm
 layout: list
 images:
   - events/streams-pg/Stream-Cover.jpg
-weight: 1
+weight: 4
 ---
 
 {{% hero %}}
@@ -20,29 +20,32 @@ Percona Community is scheduling live streams dedicated to PostgreSQL starting fr
 
 ## Bi-Weekly Talk List
 
-Matt and Charly will cover the following topics every two weeks on Friday at 02:00 PM EDT ((07:00 PM CET): 
+Matt and Charly will cover the following topics every two weeks on Thursday, at 12:00 PM EDT / 06:00 PM CEST / 09:30 PM IST: 
 
-* January 27th - [Installing PG and setting up a default configuration](https://percona.community/events/streams-pg/2022-01-27-installing-pg-and-setting-up-default-configuration/)
-* March 11th - [Observing & Tuning your PostgreSQL workload using PMM](https://percona.community/events/streams-pg/2022-03-11-observing-and-tuning-your-postgresql-workload-using-pmm/)
-* March 25th - [Setting up alerts and basic automation for PostgreSQL](https://percona.community/events/streams-pg/2022-03-25-setting-up-alert-and-basic-automation-for-postgresql/)
-* April 8th - [Setting up and scheduling regular PostgreSQL backups](https://percona.community/events/streams-pg/2022-04-08-setting-up-and-scheduling-regular-postgresql-backups/)
-* April 22nd - Setting up failover via a replica for PostgreSQL
-* May 6th - Migrating PostgreSQL to a new server
-* May 20th - installing and setting up PostgreSQL on Kubernetes
-* June 3rd - PostgreSQL running on Kubernetes operations
-* June 17th - Exploring the scalability limits of PostgreSQL on Kubernetes
-* July 1st - Designing a schema
-* July 15th - How to benchmark your PostgreSQL database
-* July 29th - How to secure PostgreSQL
-* August 12th - Setting up a PostgreSQL connection pool
-* August 26th - Using PG and Redis to boost Performance
-* September 9th - Finding poorly designed schema’s and how to fix them
-* Sept 23rd - Archiving PG data
-* Oct 7th - Auditing PostgreSQL
-* Oct 21st - Setting up and Optimizing PG Aurora
-* Nov 4th - Replicating PostgreSQL cross-cloud
-* Nov 18th - Cross K8 cluster PG replication
-* Dec 2nd - Kubernetes for DBA’s
+* January 27th - [Installing PG and setting up a default configuration](/events/streams-pg/2022-01-27-installing-pg-and-setting-up-default-configuration/)
+* March 11th - [Observing & Tuning your PostgreSQL workload using PMM](/events/streams-pg/2022-03-11-observing-and-tuning-your-postgresql-workload-using-pmm/)
+* March 25th - [Setting up alerts and basic automation for PostgreSQL](/events/streams-pg/2022-03-25-setting-up-alert-and-basic-automation-for-postgresql/)
+* April 8th - [Setting up and scheduling regular PostgreSQL backups (Part 1)](/events/streams-pg/2022-04-08-setting-up-and-scheduling-regular-postgresql-backups/)
+* April 21st - [Setting up and scheduling regular PostgreSQL backups (Part 2)](/events/streams-pg/2022-04-21-setting-up-and-scheduling-regular-postgresql-backups-2/)
+* May 6th - [Setting up and installing backups with pgBackRest](/events/streams-pg/2022-04-21-setting-up-failover-via-a-replica-for-postgresql/)
+* June 3rd - [Setting up failover via a replica for PostgreSQL](/events/streams-pg/2022-06-03-setting-up-failover-via-a-replica-for-postgresql/)
+* June 16th - [Setting Up and Using Patroni to Automate Failover in PostgreSQL](/events/streams-pg/2022-06-16-setting-up-and-using-patroni-to-automate-failover-in-postgresql)
+* June 30th - [Migrating PostgreSQL to a new server](/events/streams-pg/2022-06-30-migrating-postgresql-to-a-new-server/)
+* July 28th - [Installing and Setting Up PostgreSQL on Kubernetes](/events/streams-pg/2022-07-28-installing-and-setting-up-postgresql-on-kubernetes/)
+* August 11th - [PostgreSQL running on Kubernetes operations](/events/streams-pg/2022-08-11-postgresql-running-on-kubernetes-operations/)
+* August 25th - Exploring the scalability limits of PostgreSQL on Kubernetes
+* September 8th - Designing a schema
+* September 22nd - How to benchmark your PostgreSQL database
+* October 6th - How to secure PostgreSQL
+* October 20th - Setting up a PostgreSQL connection pool
+* November 3rd - Using PG and Redis to boost Performance
+* November 17th - Finding poorly designed schema’s and how to fix them
+* December 1st - Archiving PG data
+* December 15th - Auditing PostgreSQL
+* December 29th - Setting up and Optimizing PG Aurora
+* January 12th - Replicating PostgreSQL cross-cloud
+* January 26th - Cross K8 cluster PG replication
+* February 9th - Kubernetes for DBA’s
 
 ## Follow Us
 

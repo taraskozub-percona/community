@@ -8,6 +8,8 @@ Thank you to users of our products, customers, communities, and authors for your
 
 # MySQL
 
+
+* [1.1 million comments from Hacker News: small data full-text / analytics test](https://dev.to/sanikolaev/11-million-comments-from-hacker-news-small-data-full-text-analytics-test-43c3) - Sergey Nikolaev - May 30, 2022
 * [Percona Xtrabackup Backup & Recovery](https://satya-dba.blogspot.com/2021/09/percona-xtrabackup-installation.html) - Satya - February 10, 2022
 * [Installation & Usage of Percona Toolkit 3](https://satya-dba.blogspot.com/2021/09/installing-percona-toolkit-usage.html) - Satya - January 28, 2022
 * [ProxySQL 2 configuration/installation](https://satya-dba.blogspot.com/2021/09/installing-proxysql-configuration.html) - Satya - January 5, 2022
@@ -34,11 +36,14 @@ Thank you to users of our products, customers, communities, and authors for your
 
 # PostgreSQL
 
+* [PostgreSQL Person of the Week](https://postgresql.life/post/charly_batista/) - Charly Batista (Percona) - July 11, 2022
 * [pg_stat_monitor :: Younger sibling of pg_stat_statements with more knowledge](https://sujithtee.medium.com/pg-stat-monitor-younger-sibling-of-pg-stat-statements-with-more-knowledge-736afb1f05ac) - Sujith Thiravium - October 19, 2021
 * [Setup Percona Postgresql Through the Awsesome(OSM) Ansible Role](https://medium.com/opstree-technology/setup-percona-postgresql-through-the-awsesome-osm-ansible-role-86fe0a5fe1a5) - Abhishek Vishwakarma - October 5, 2022
 
 # MongoDB
 
+* [Deploying a custom MongoDB operator using Helm Charts](https://dev.to/devtron_/deploying-a-custom-mongodb-operator-using-helm-charts-5hg2) - Devtron - June 28, 2022
+* [Percona backup for MongoDB caveats](https://medium.com/@k5350153197/percona-backup-for-mongodb-caveats-1240985f8f8f) - Ilshat - May 10, 2022
 * [MongoDB 4.4.13 : Here to SRV you with easier replica set connections](https://www.datablogs.in/2022/03/mongodb-4413-here-to-srv-you-with.html) - SelvaKumar Kuppusamy - March 30, 2022
 * [Installing Percona Server for MongoDB on Red Hat Enterprise Linux and CentOS](https://news.descreated.com/edukasi/1697/installing-percona-server-for-mongodb-on-red-hat-enterprise-linux-and-centos/202203211325/) - Ryan - March 21, 2022
 * [Percona Backup for MongoDB with SSL/TLS](https://datablogs.medium.com/percona-backup-for-mongodb-with-ssl-tls-7e2f56f6b414) - SelvaKumar Kuppusamy - January 12, 2022
@@ -57,7 +62,8 @@ Thank you to users of our products, customers, communities, and authors for your
 * [Monitor Cassandra Clusters with Percona PMM - JMX Grafana and Prometheus](https://thedataguy.in/monitor-cassandra-clusters-with-percona-pmm-jmx-grafana-and-prometheus/) - Bhuvanesh - May 16, 2019
 * [Tune your databases. Spick and Span](https://www.admin-magazine.com/Archive/2020/59/Tune-your-databases) - Mayank Sharma - December 2, 2020
 * [Thanks Percona for this great product called PMM (Percona Monitoring & Management Server)](https://fatdba.com/2020/12/02/thanks-percona-for-this-great-product-called-pmm-percona-monitoring-management-server/) - Prashant Dixit - December 2, 2020
-* [Configure PMM2 for Azure MySQL Database with SSL](https://niravshah2705.medium.com/configure-pmm2-for-azure-mysql-database-with-ssl-82e631fe0f90) - NIRAV SHAH - June 18, 2021
+* [Configure PMM2 for Azure MySQL Database with SSL](https://niravshah2705.medium.com/configure-pmm2-for-azure-mysql-database-with-ssl-82e631fe0f90) - Nirav Shah - June 18, 2021
+* [The Single Free Database Tool to Improve and Monitor Performance. Every MySQL, PostgreSQL, or MongoDB Admin Should Know It](https://typeshare.co/tmotyl/posts/the-single-free-database-tool-im-using-to-improve-and-monitor-performance-every-mysql-postgresql-or-mongodb-admin-should-know-it-cacz) - Tymoteusz Motylewski - August 14, 2022
 
 # Kubernetes
 
